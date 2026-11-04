@@ -4,18 +4,18 @@ A current-weather snapshot from [OpenWeather](https://openweathermap.org/), refr
 
 ## Latest observation
 
-![Overcast clouds](https://openweathermap.org/img/wn/04d@2x.png)
+![Broken clouds](https://openweathermap.org/img/wn/04n@2x.png)
 
-### 23.53 °C · Overcast clouds
+### 24.94 °C · Broken clouds
 
 | Detail | Value |
 | :--- | :--- |
 | Location | Vietnam, VN |
-| Feels like | 24.42 °C |
-| Humidity | 95% |
-| Wind | 0.74 m/s |
+| Feels like | 25.89 °C |
+| Humidity | 92% |
+| Wind | 0.93 m/s |
 
-Observed **04 Nov 2026, 06:57 ICT**. Conditions refer to OpenWeather's `vietnam` location, not a national forecast.
+Observed **04 Nov 2026, 18:58 ICT**. Conditions refer to OpenWeather's `vietnam` location, not a national forecast.
 
 ---
 
